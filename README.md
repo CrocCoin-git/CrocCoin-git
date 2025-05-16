@@ -10,7 +10,7 @@ It exists as a **public record** to ensure transparency, version control, and co
 **📄 File:** `CrocCoin_Whitepaper_v1_PROTECTED.pdf`  
 **📅 Published:** May 16, 2025  
 **🔐 Protected:** Editing and copying are disabled  
-**🔑 Access Password (permission only):** `Sw@mpLock#2025!`  
+
 **📦 SHA256 Hash:** _(To be inserted after upload)_
 
 ---
